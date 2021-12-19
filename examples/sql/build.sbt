@@ -43,7 +43,7 @@ val SedonaVersion = "1.0.1-incubating"
 val ScalaCompatibleVersion = "2.12"
 
 // Change the dependency scope to "provided" when you run "sbt assembly"
-val dependencyScope = "compile"
+val dependencyScope = "provided"
 
 val geotoolsVersion = "1.1.0-24.1"
 
